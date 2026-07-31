@@ -1,0 +1,59 @@
+# VPersonalize
+
+> vPersonalize offers apparel brands and manufacturers an easy way to design and showcase their products, allow their customers to personalize and then instantly generate color-matched, size-graded, production ready patterns for on-demand manufacturing. 
+
+# Company Overview
+- Name: vPersonalize Inc.
+- Founded: 2014
+- Headquarters: Houston, Texas, USA
+- Backing: Backed by Accel
+- Patents & IP: US 9345280 | US 10706636 | US 9406172 | US 11132836 | US 11970805 | US 9661886
+
+
+# The platform augments traditional manufacturing workflows with automated pipelines spanning:
+- 3D Uniform Builder
+- 3D Product Customizer
+- Web To Print Automation
+- Autonomous Pattern generation
+- Automated Size grading
+- Print layout automation
+- Variable data automation
+- Order management
+- E-commerce integration
+
+# US Patents:   
+  - 9345280
+  - 9406172
+  - 10706636
+  - 11132836
+  - 9661886
+  - 11970805
+  - The system is backed by multiple patents and deep apparel + textile + manufacturing expertise.
+
+## Core Pages
+
+- Home: https://www.vpersonalize.com/ — Uniform Builder, Web To Print, On Demand Print Automation Software
+- About Us: https://www.vpersonalize.com/about-us — Learn about the brand and mission
+- Contact: https://www.vpersonalize.com/contact-us — Customer support and sales inquiries
+
+## Categories
+- 3D Uniform Builder: https://vpersonalize.com/3D-Online-Team-Uniform-Builder-Custom-Sport.html — 3D uniform builder, kit builder, custom uniform creator, uniform maker online, with web to print and production automation
+- Sublimated Sportswear Software: https://vpersonalize.com/sublimated-sportswear-software.html - Sublimated sportswear, team sports, print-on-demand, DTG, direct-to-garment, online sports brands, design to print software
+- Print-on-Demand Platform: https://vpersonalize.com/white-label-print-on-demand-and-fulfilment.html - A comprehensive platform for on-demand manufacturing, customization, and fulfillment of apparel and accessories.
+- Apparel Personalization Platform: https://vpersonalize.com/Purchase-production-line-manufacturing-automation-for-personalized-apparel.html - Automated, on-demand personalized apparel manufacturing solutions for brands seeking mass personalization
+
+## Popular Products
+- 3D Product Customizer: https://vpersonalize.com/3d-clothing-designer.html - Online 3D Product Designer For Web & Mobile with Web To Print Automation
+- Web To Print: https://vpersonalize.com/automated-pattern-generation.html - Web-To-Print Automation with Roster and Variable Data
+- Apparel Product Visualization: https://vpersonalize.com/AI-automation.html - Create studio-quality product visuals and product videos
+- E-Commerce & Manufacturing Platform: https://vpersonalize.com/e-commerce-order-management.html -Effortlessly integrate to any e-commerce platform
+- Apparel Catalog Builder: https://vpersonalize.com/automated-catalog-builder.html - create customer-specific catalogs with our automated catalog builder
+- Online Apparel CAD: https://vpersonalize.com/online-pattern-maker.html - new age CAD with a completely new design paradigm
+
+## LINKS
+
+- Blog: https://vpersonalize.wordpress.com — CUSTOM SPORTS APPAREL MANUFACTURING & WEB-TO-PRINT AT SCALE
+- Video: https://www.youtube.com/watch?v=OFScf-cCxo4 - 2 minute overview video
+- Differentiator: https://www.vpersonalize.com/how-is-vpersonalize-different.html
+- How It Works: https://vpersonalize.com/how-it-works.html
+- Channel Partner: https://vpersonalize.com/channel-partner.html

@@ -1,7 +1,19 @@
 aid: mywear
 name: MyWear
-description: 'MyWear is a company surfaced as a portfolio company of accel and added to the API Evangelist
-  network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.'
+description: >-
+  MyWear (operating as vPersonalize Inc.) is a Houston, Texas based, Accel-backed
+  software company founded in 2014 that provides a cloud platform for on-demand
+  apparel manufacturing and mass customization. Its integrated toolset spans the
+  full production lifecycle: a 3D product customizer and 3D uniform builder for
+  real-time design, an online pattern-making CAD with automated size grading,
+  web-to-print and print-layout automation with color management (PANTONE, CMYK,
+  custom SPOT), an automated catalog builder, e-commerce storefront integration,
+  and order and factory management across multiple suppliers. The company holds
+  six US patents covering its automation and pattern-generation technology and
+  targets apparel brands, sportswear makers, and print-on-demand operators. The
+  public surface is a marketing and product site (vpersonalize.com); no public
+  developer portal, API reference, or OpenAPI definition is published as of this
+  enrichment pass.
 url: https://raw.githubusercontent.com/api-evangelist/mywear/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,12 +21,30 @@ x-backed-by:
 - accel
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.vpersonalize.com/images/logo.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Consumer
+- Apparel
+- Manufacturing
+- Customization
+- Print-on-Demand
+- E-Commerce
+- Fashion
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,4 +53,19 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://www.mywearstore.com
+  url: https://www.vpersonalize.com
+- type: LLMsTxt
+  url: llms/mywear-llms.txt
+- type: Blog
+  url: https://vpersonalize.wordpress.com
+- type: Support
+  url: https://www.vpersonalize.com/contact-us.html
+- type: TermsOfService
+  url: https://www.vpersonalize.com/terms-of-service.html
+- type: PrivacyPolicy
+  url: https://www.vpersonalize.com/privacy-policy.html
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 1
+  pass: local-v1
