@@ -1,0 +1,26 @@
+# Front Door AI Index — mywear — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: mywear
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.vpersonalize.com
+  final_host: www.vpersonalize.com
+  ownership: own
+  owner: mywear
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 4
+  host_score: 4
+  density: 4.18
+  words: 958
+  tiers:
+    agentic: 0
+    core: 4
+    model: 0
+  ambiguous: 11
+  top_terms:
+    automation: 11
+    AI: 4
