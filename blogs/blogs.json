@@ -1,0 +1,21 @@
+{
+  "repo": "mywear",
+  "feeds": [
+    {
+      "source": "https://blog.vpersonalize.com/feed/",
+      "feed_url": "https://blog.vpersonalize.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://vpersonalize.wordpress.com",
+      "feed_url": "https://blog.vpersonalize.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
